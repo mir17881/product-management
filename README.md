@@ -49,6 +49,13 @@ A multi-game heritage card app reviving the Mughal **ganjifa** tradition (8 suit
 **Stack:** React 18 · TypeScript · Tailwind CSS · Capacitor (Android/iOS) · Supabase · Firebase Analytics  
 **Live:** [ganjifa.tashkhela.com](https://ganjifa.tashkhela.com) · [Play Store](https://play.google.com/store/apps/details?id=com.ganjifa.app)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mir17881/ganjifa-59cb8f4d/main/app-store-assets/screenshots/6.7-inch/home.png" alt="Home screen" width="23%" />
+  <img src="https://raw.githubusercontent.com/mir17881/ganjifa-59cb8f4d/main/app-store-assets/screenshots/6.7-inch/gameplay.png" alt="Gameplay" width="23%" />
+  <img src="https://raw.githubusercontent.com/mir17881/ganjifa-59cb8f4d/main/app-store-assets/screenshots/6.7-inch/court.png" alt="Mughal Court" width="23%" />
+  <img src="https://raw.githubusercontent.com/mir17881/ganjifa-59cb8f4d/main/app-store-assets/screenshots/6.7-inch/collection.png" alt="Card Collection" width="23%" />
+</p>
+
 ### [Naqqash-Khanah](https://github.com/mir17881/naqqash-khanah)
 
 A standalone RAG corpus + semantic search API for Indo-Islamic and South Asian art. Aggregates **13,381 museum objects** (23,500+ text passages) from 7 museums (Met, Cleveland, V&A, Smithsonian, etc.), with annotation CRUD and image mirroring. Consumed by my Lal-Kella app.
